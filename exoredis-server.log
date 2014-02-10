@@ -1,0 +1,36 @@
+# Logfile created on 2014-01-30 17:35:20 +0530 by logger.rb/31641
+#<TCPSocket:0x000000012b9110> connected at Thu Jan 30 17:35:20 2014.
+#<TCPSocket:0x000000012b9110> requested GET foo
+
+#<TCPSocket:0x000000017b8058> connected at Thu Jan 30 17:36:48 2014.
+#<TCPSocket:0x000000017b8058> requested GET
+
+#<TCPSocket:0x00000001ffe1e0> connected at Thu Jan 30 17:51:56 2014.
+#<TCPSocket:0x000000010510f8> connected at Thu Jan 30 17:55:07 2014.
+#<TCPSocket:0x000000010510f8> requested GET foo
+
+#<TCPSocket:0x00000000aeb1e0> connected at Thu Jan 30 17:57:44 2014.
+#<TCPSocket:0x00000000aeb1e0> requested GET
+
+#<TCPSocket:0x00000001bf4f68> connected at Thu Jan 30 17:58:13 2014.
+#<TCPSocket:0x00000001bf4f68> requested SET foo bar
+
+#<TCPSocket:0x000000011b5e80> connected at Thu Jan 30 17:59:15 2014.
+#<TCPSocket:0x000000011b5e80> requested GET foo
+
+#<TCPSocket:0x00000001e3af20> connected at Thu Jan 30 18:02:26 2014.
+#<TCPSocket:0x000000014e7fb8> connected at Thu Jan 30 18:02:49 2014.
+#<TCPSocket:0x000000014e7fb8> requested SET foo bar 1 1 NX
+
+#<TCPSocket:0x00000001ab1160> connected at Thu Jan 30 18:04:53 2014.
+#<TCPSocket:0x00000001ab1160> requested SET foo bar 1 1 XX
+
+#<TCPSocket:0x00000001f24f80> connected at Thu Jan 30 18:05:38 2014.
+#<TCPSocket:0x00000001f24f80> requested SET foo bar 1 1 NX
+
+#<TCPSocket:0x00000001e43e40> connected at Thu Jan 30 18:06:04 2014.
+#<TCPSocket:0x00000001e43e40> requested SET foo bar 1 1 NX
+
+#<TCPSocket:0x00000002225c98> connected at Thu Jan 30 18:07:42 2014.
+#<TCPSocket:0x00000002225c98> requested SET foo bar 1 1 NX
+
